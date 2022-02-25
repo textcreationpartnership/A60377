@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble addresse of I.S. to His Sacred Majesty delivered at White-Hall the second of June 1660.</title>
+            <author>I. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60377</idno>
+            <idno type="STC">Wing S39C</idno>
+            <idno type="STC">ESTC R202444</idno>
+            <idno type="EEBO-CITATION">99825174</idno>
+            <idno type="PROQUEST">99825174</idno>
+            <idno type="VID">29549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2040:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble addresse of I.S. to His Sacred Majesty delivered at White-Hall the second of June 1660.</title>
+                  <author>I. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29549:1"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:29549:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <p>The Humble Addreſſe OF I. S. To His Sacred MAIESTY, Delivered at <hi>White-Hall</hi> the ſecond of <hi>June</hi> 1660.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Leach</hi> in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:29549:2"/>
+            <!-- PDF PAGE 49 -->
+            <pb n="3" facs="tcp:29549:2"/>
+            <!-- PDF PAGE 49 -->
+            <head>The Humbe Addreſſe OF I. S. To his Sacred MAIESTY.</head>
+            <opener>
+               <salute>Dread Soveraign,</salute>
+            </opener>
+            <p>YOur miraculous preſervation in in that fatal fight at <hi>Worceſter,</hi> (where your perſonal valour was ſo ſignally manifeſted to the
+<pb n="4" facs="tcp:29549:3"/>
+               <!-- PDF PAGE 50 -->
+world) and the no leſſe miraculous deliverance from the fury of your pur<g ref="char:EOLhyphen"/>ſuers, who before had acted beyond the Parable, and above all Preſident of Cruel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y (at which the Nation did bluſh, and all loyal hearts did bleed) and now were in hot purſuance of your perſon, hoping to have acted another Scean in ſo diſmal a Tragedy, until that Providence which protected you, then carried you on through ſo many Stages of Dangers to the place of your arrival, where their malice could not reach you, which made all good and wiſe men preſage that your Majeſty was to reſerved for an univerſal bleſsing to the Nation, when God thought fit to reſtore you, and us ca<g ref="char:EOLhyphen"/>pable to receive.</p>
+            <p>But when you fled in a diſguiſe from the face of that unparalleld Re<g ref="char:EOLhyphen"/>bel, that place of <hi>Jehu</hi> preſented it ſelf to my obſervation and fear, two Kings could not ſtand before him,
+<pb n="5" facs="tcp:29549:3"/>
+               <!-- PDF PAGE 50 -->
+and as in ſuch an exigent <hi>David</hi> made a Cave his Sanctuary, ſo (not unlike it) to eſcape the fury of your <hi>Saul,</hi> you hid your ſelf in the Cave of a Tree, and by a ſtrange method of Providence, decayed nature became the Ark of your preſervation. And af<g ref="char:EOLhyphen"/>ter that being deſtitute of other re<g ref="char:EOLhyphen"/>medies, in the habit of a Servant (a penance to Majeſty) wandring in your own Kingdom for ſafety, had a new title to it by the conqueſt of your pati<g ref="char:EOLhyphen"/>ence; VVhich vertue hath been ſo long exerciſed by you in the School of your affliction, and baniſhment, and the reſt of them which do ſo eminently ſhine in you, have been improved to ſo high advantages, ſo far beyond any of your Royal Predeceſſors, in ſtudying men and languages (the moſt proper ſtudy for Princes) and conſulting Fo<g ref="char:EOLhyphen"/>rein States and Councels with ſo much Prudence, that you are univerſally repu<g ref="char:EOLhyphen"/>ted, the wonder of yourage, and the
+<pb n="6" facs="tcp:29549:4"/>
+               <!-- PDF PAGE 51 -->
+wiſeſt of Princes, a Title far greater than that of great <hi>Britain.</hi>
+            </p>
+            <p>To which your Majeſty hath a double right, not by Deſcent only, but by the impreſsions of Loyalty in the Hearts of your Subjects, which, the reſentments of your Calamity, and their ſad experiments of the changes of Government under the heavy Yoke of Uſurpation and Tyranny, have ſo in<g ref="char:EOLhyphen"/>delebly ſtampt in them, that they are now as fit for Obedience as You for Government.</p>
+            <p>But above all your other Royal Gra<g ref="char:EOLhyphen"/>ces, your Conſtancy to your Religion is the moſt reſplendent Jewel in your Dia<g ref="char:EOLhyphen"/>dem of Honour, notwithſtanding thoſe many Incounters and Temptations You have met with, which hath made You a Star of the firſt magnitude in the higheſt Orb of the Church; So in that alſo You have got an additional Title of the Preſerver of the Faith in Your ſelf as well as of Defender.</p>
+            <pb n="7" facs="tcp:29549:4"/>
+            <!-- PDF PAGE 51 -->
+            <p>And by the conduct of a prudent and loyal Commander the Sword is put now into your own hand, a man of men, who hath conquerd without fighting, and hath laid at your ſoot the whole Harveſt of his victory, no leſſe than three Kingdoms; To whoſe vertues I have the ambition to be al<g ref="char:EOLhyphen"/>lyed, as I have the honour to be to his perſon, who hath made himſelf glo<g ref="char:EOLhyphen"/>rious in the diſcreet management of this great affair, and famous to all po<g ref="char:EOLhyphen"/>ſterity; Who need no other Advocate than his own merit to have an emi<g ref="char:EOLhyphen"/>nent place in your Majeſtyes favour, of whom it may be truly ſaid, Thus it ſhall be done to him, whom the King not only delighteth, but is con<g ref="char:EOLhyphen"/>cerned to honour.</p>
+            <p>And now after a long Ecclipſe, the Sun of Majeſty appears in full ſplendour; may you ſhine long upon us with a gratious aſpect, that nei<g ref="char:EOLhyphen"/>ther any Cloud of Rebellion, or Me<g ref="char:EOLhyphen"/>teor of Conſpiracy or Faction, may
+<pb n="8" facs="tcp:29549:5"/>
+               <!-- PDF PAGE 52 -->
+obſcure your Light, or obſtruct your Influence.</p>
+            <p>And when you are in the Meri<g ref="char:EOLhyphen"/>dian of your Glory, remember that once a Hollow Tree was the place of your Refuge when your Enemies were thick about you, which may be of as great uſe as that <hi>memento</hi> to <hi>Philip</hi> of <hi>Macedon,</hi> which his Son did ſo much forget, that after his <hi>Aſian</hi> Conqueſts puff'd up with ſo many great ſucceſſes, he flatter'd himſelf in<g ref="char:EOLhyphen"/>to a conceit of a Deity, and command<g ref="char:EOLhyphen"/>ed Divine Adoration to his Perſon, but not long after one of his Com<g ref="char:EOLhyphen"/>manders ſecretly performed the Office done to his Father, and by the con<g ref="char:EOLhyphen"/>trivance of Poyſon put him in mind alſo that he was but a Man.</p>
+            <p>But your Majeſty need look no further back than the beginning of your own Reign, which as it hath been hitherto Cloudy and Tempeſtu<g ref="char:EOLhyphen"/>ous, ſo I earneſtly pray the Progreſs may be ſerene and quiet, and the<lb/>
+               <hi>End Glorious.</hi>
+            </p>
+            <pb facs="tcp:29549:5"/>
+            <!-- PDF PAGE 52 -->
+         </div>
+      </body>
+   </text>
+</TEI>
